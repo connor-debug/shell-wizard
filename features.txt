@@ -1,0 +1,5 @@
+1. add aliases to .bashrc
+
+2. add path enviorment valuable .bashrc
+
+3. toggle tab completion
