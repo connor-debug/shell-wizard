@@ -3,3 +3,9 @@
 2. add path enviorment valuable .bashrc
 
 3. toggle tab completion
+
+4. user agnostic
+
+5. shell agnostic
+
+6. relative directory navigation
