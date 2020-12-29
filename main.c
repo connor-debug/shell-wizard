@@ -173,7 +173,7 @@ int remalias(char * fulldir){
 
     /* Delete src file and rename temp file as src */
     remove("testrem.txt");
-    rename("delete-line.tmp", "testrem.txt");
+    rename("delete-line.tmp", fulldir);
 	
 	return 1;
 }
@@ -230,7 +230,7 @@ int rempath(char * fulldir){
 
     /* Delete src file and rename temp file as src */
     remove("testrem.txt");
-    rename("delete-line.tmp", "testrem.txt");
+    rename("delete-line.tmp", fulldir);
 	
 	return 1;
 }

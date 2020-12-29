@@ -1,11 +1,7 @@
-1. add aliases to .bashrc
-
-2. add path enviorment valuable .bashrc
-
-3. toggle tab completion
-
-4. user agnostic
-
-5. shell agnostic
-
-6. relative directory navigation
+add/configure aliases done
+add/configure path variables done
+view configuration done 
+toggle tab completion
+relative directory navigation done
+user/shell agnostic
+relaunch shell
